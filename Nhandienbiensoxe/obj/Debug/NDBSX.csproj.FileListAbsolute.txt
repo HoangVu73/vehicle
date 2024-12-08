@@ -1,0 +1,11 @@
+E:\nhan dang BSX\Nhandienbiensoxe\bin\Debug\NDBSX.net.exe.config
+E:\nhan dang BSX\Nhandienbiensoxe\bin\Debug\NDBSX.net.exe
+E:\nhan dang BSX\Nhandienbiensoxe\bin\Debug\NDBSX.net.pdb
+E:\nhan dang BSX\Nhandienbiensoxe\obj\Debug\NDBSX.csproj.AssemblyReference.cache
+E:\nhan dang BSX\Nhandienbiensoxe\obj\Debug\NDBSX.FrmMain.resources
+E:\nhan dang BSX\Nhandienbiensoxe\obj\Debug\NDBSX.Properties.Resources.resources
+E:\nhan dang BSX\Nhandienbiensoxe\obj\Debug\NDBSX.csproj.GenerateResource.cache
+E:\nhan dang BSX\Nhandienbiensoxe\obj\Debug\NDBSX.csproj.CoreCompileInputs.cache
+E:\nhan dang BSX\Nhandienbiensoxe\obj\Debug\NDBSX.csproj.Up2Date
+E:\nhan dang BSX\Nhandienbiensoxe\obj\Debug\NDBSX.net.exe
+E:\nhan dang BSX\Nhandienbiensoxe\obj\Debug\NDBSX.net.pdb
